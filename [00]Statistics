@@ -1,1 +1,8 @@
-
+"import pandas as pd\n",
+    "import numpy as np\n",
+    "import matplotlib.pyplot as plt\n",
+    "import statsmodels.graphics.tsaplots as sgt\n",
+    "import statsmodels.tsa.stattools as sts\n",
+    "from statsmodels.tsa.seasonal import seasonal_decompose\n",
+    "import seaborn as sns\n",
+    "sns.set()\n"
